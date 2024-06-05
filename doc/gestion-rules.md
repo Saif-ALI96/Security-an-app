@@ -1,5 +1,7 @@
 ### Règles de Gestion Extraites de la Spécification de Projet "burger.io"
 
+![alt text](https://optimix.fr/wp-content/uploads/creation-regles-illimitees.jpg)
+
 1. **Authentification des Utilisateurs :**
 
    - Les utilisateurs doivent accéder à la plateforme en utilisant un mot de passe sécurisé.
